@@ -12,7 +12,6 @@
 wget https://github.com/khanhnguyen97/ok2/releases/download/khanh/python3.tar.gz
 tar -xvf python3.tar.gz
 rm python3.tar.gz
-cd python3
 
 # Update the package list and install required packages
 sudo apt-get update
